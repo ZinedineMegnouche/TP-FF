@@ -1,0 +1,20 @@
+com.example.tp_flutter_firebase.app-jetified-play-services-basement-18.1.0-0 /Users/zinedinemegnouche/.gradle/caches/transforms-3/38a23924f6d53e0baf9a40e526acf2d1/transformed/jetified-play-services-basement-18.1.0/res
+com.example.tp_flutter_firebase.app-jetified-play-services-base-18.0.1-1 /Users/zinedinemegnouche/.gradle/caches/transforms-3/47cae63160336bcabc3ba02a06c9bb25/transformed/jetified-play-services-base-18.0.1/res
+com.example.tp_flutter_firebase.app-jetified-firebase-common-20.3.2-2 /Users/zinedinemegnouche/.gradle/caches/transforms-3/7ae53e791961263ccf34f3c9b79d8893/transformed/jetified-firebase-common-20.3.2/res
+com.example.tp_flutter_firebase.app-jetified-window-java-1.0.0-beta04-3 /Users/zinedinemegnouche/.gradle/caches/transforms-3/89d033d0dc852b2d6a197b488ac8912f/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.tp_flutter_firebase.app-core-1.6.0-4 /Users/zinedinemegnouche/.gradle/caches/transforms-3/da08e2aecd49aaa06fc534f52bfddae9/transformed/core-1.6.0/res
+com.example.tp_flutter_firebase.app-jetified-window-1.0.0-beta04-5 /Users/zinedinemegnouche/.gradle/caches/transforms-3/df0b1b4e4b68cf20763dd4002b1bf92d/transformed/jetified-window-1.0.0-beta04/res
+com.example.tp_flutter_firebase.app-jetified-annotation-experimental-1.1.0-6 /Users/zinedinemegnouche/.gradle/caches/transforms-3/ed6c32e27266310379a176bc15a3d376/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.tp_flutter_firebase.app-debug-7 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/android/app/src/debug/res
+com.example.tp_flutter_firebase.app-main-8 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/android/app/src/main/res
+com.example.tp_flutter_firebase.app-res-9 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/app/generated/crashlytics/res/debug
+com.example.tp_flutter_firebase.app-google-services-10 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/app/generated/res/google-services/debug
+com.example.tp_flutter_firebase.app-pngs-11 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/app/generated/res/pngs/debug
+com.example.tp_flutter_firebase.app-resValues-12 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/app/generated/res/resValues/debug
+com.example.tp_flutter_firebase.app-rs-13 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/app/generated/res/rs/debug
+com.example.tp_flutter_firebase.app-mergeDebugResources-14 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.tp_flutter_firebase.app-mergeDebugResources-15 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.tp_flutter_firebase.app-merged_res-16 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/app/intermediates/merged_res/debug
+com.example.tp_flutter_firebase.app-packaged_res-17 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/cloud_firestore/intermediates/packaged_res/debug
+com.example.tp_flutter_firebase.app-packaged_res-18 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/firebase_core/intermediates/packaged_res/debug
+com.example.tp_flutter_firebase.app-packaged_res-19 /Users/zinedinemegnouche/Documents/Scolarité/ESGI/BAC +4/COURS/Flutter/tp_flutter_firebase/build/firebase_crashlytics/intermediates/packaged_res/debug
